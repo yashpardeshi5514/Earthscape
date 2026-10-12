@@ -120,10 +120,9 @@ function App() {
 
               <h1 className="text-[17px] font-semibold tracking-wide">
 
-                DARUKAA
-
+                Earth
                 <span className="text-emerald-400">
-                  .EARTH
+                  scape
                 </span>
 
               </h1>
