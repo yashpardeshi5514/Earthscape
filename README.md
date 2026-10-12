@@ -1,4 +1,4 @@
-# Darukaa.Earth
+# Earthscape
 
 > A full-stack geospatial data analytics platform for monitoring carbon and biodiversity projects.
 
@@ -12,7 +12,7 @@
 
 ## 🌍 Overview
 
-**Darukaa.Earth** is a full-stack geospatial analytics platform designed for carbon and biodiversity projects.
+**Earthscape** is a full-stack geospatial analytics platform designed for carbon and biodiversity projects.
 
 The platform allows administrators to:
 
@@ -296,7 +296,7 @@ Chart.js is used to display performance trends after selecting a site.
 ## 📂 Project Structure
 
 ```text
-Darukaa-Earth/
+Earthscape/
 │
 ├── .github/
 │   └── workflows/
@@ -629,7 +629,7 @@ Hosted using Render PostgreSQL.
 | Resource | Link |
 |---|---|
 | Live Demo | https://darukaa-earth-delta.vercel.app/ |
-| GitHub Repository | https://github.com/yashpardeshi5514/Darukaa-Earth |
+| GitHub Repository | https://github.com/yashpardeshi5514/Earthscape |
 
 ---
 
